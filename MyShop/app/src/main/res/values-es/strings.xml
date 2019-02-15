@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mi aplicación personal</string>
+    <string name="myshop">mi aplicación</string>
+    <string name="welcome_to_my_shop_app">Bienvenido a mi aplicación</string>
+    <string name="call_0899666774">llame al 0899666774</string>
+    <string name="phone_call">Llamada telefónica</string>
+    <string name="mom">Llama a mama</string>
+    <string name="video">Vídeo</string>
+    <string name="my_family">Lista de llamadas de mi familia</string>
+    <string name="camera">cámara</string>
+    <string name="animation">animación</string>
+    <string name="text_to_speech">Texto a voz</string>
+    <string name="enter_text">Ingrese texto</string>
+    <string name="enter_text1">Introduzca texto1</string>
+
+</resources>

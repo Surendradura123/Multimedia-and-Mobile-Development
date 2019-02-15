@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Personal App</string>
+    <string name="myshop">my app</string>
+    <string name="welcome_to_my_shop_app">Welcome To My APP</string>
+    <string name="call_0899666774">call 0899666774</string>
+    <string name="phone_call">Phone Call</string>
+    <string name="mom">call Mom</string>
+    <string name="video">Video</string>
+    <string name="my_family">My Family Call List</string>
+    <string name="camera">camera</string>
+    <string name="animation">animation</string>
+    <string name="text_to_speech">Text to Speech</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="enter_text1">enter_text1</string>
+
+</resources>

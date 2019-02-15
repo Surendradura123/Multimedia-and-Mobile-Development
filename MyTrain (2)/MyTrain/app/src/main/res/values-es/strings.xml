@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mi tren</string>
+    <string name="tab_text_1">Casa</string>
+    <string name="tab_text_2">Tren en vivo</string>
+    <string name="tab_text_3">Información</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="homw">TESTBIN 1</string>
+    <string name="home">Casa</string>
+    <string name="tab2">Tren en vivo</string>
+    <string name="testbin_2">Tren en vivo</string>
+    <string name="tab3">Información</string>
+    <string name="testbin_3">Información</string>
+    <string name="tab1">Casa</string>
+    <string name="irishrail">irishrail</string>
+</resources>
